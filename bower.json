@@ -1,16 +1,16 @@
 {
-  "name": "overtrue.github.io",
-  "description": "overtrue blog",
+  "name": "lizhenghui.github.io",
+  "description": "Andylee blog",
   "main": "",
   "authors": [
-    "overtrue <anzhengchao@gmail.com>"
+    "Andylee <lizhenghui.dlu@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
     "overtrue",
     "blog"
   ],
-  "homepage": "https://github.com/overtrue/overtrue.github.io",
+  "homepage": "https://github.com/lizhenghui/lizhenghui.github.io",
   "moduleType": [],
   "ignore": [
     "**/.*",
