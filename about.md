@@ -9,7 +9,7 @@ menu: About
 ## 概况
 
 - 邮箱：lizhenghui.dlu#gmail.com
-- 微博：[@安正超](http://weibo.com/zhaolizhenghui)
+- 微博：[@摆渡你自己](http://weibo.com/zhaolizhenghui)
 
 计算机专业毕业，{{ current_year | minus: 2010 }} 年在职工作经验，{{ current_year | minus: 2010 }} 年 web 开发经验。
 
